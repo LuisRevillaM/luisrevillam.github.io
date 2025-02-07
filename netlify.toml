@@ -4,5 +4,4 @@
   command = ""
 
 [build.environment]
-  RUBY_VERSION = "none"
-  PYTHON_VERSION = "none"
+  RUBY_VERSION = "3.1.0."
