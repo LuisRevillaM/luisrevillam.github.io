@@ -1,0 +1,7 @@
+[build]
+  base = "/"
+  publish = "."
+  command = ""
+
+[build.environment]
+  RUBY_VERSION = "3.1.0"
