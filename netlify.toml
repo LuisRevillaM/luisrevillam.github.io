@@ -3,6 +3,6 @@
   publish = "."
   command = ""
 
-[build.environment.variables]
+[build.environment]
   RUBY_VERSION = "none"
   PYTHON_VERSION = "none"
